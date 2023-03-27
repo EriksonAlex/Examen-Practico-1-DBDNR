@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64211a0d2f1a58f28476cf73"
+  },
+  "nombre_Producto": "Nissan Skyline",
+  "descripcion": "Vehiculo motor V6 twin Turbo",
+  "precio": "75000",
+  "marca": "Nissa",
+  "vencimiento": "N/A"
+},{
+  "_id": {
+    "$oid": "64211d5f5b5b72a5c1b3f68e"
+  },
+  "nombre_Producto": "Nissan 370Z",
+  "descripcion": "Vahiculo V6 3.7L para Driff",
+  "precio": "35000",
+  "marca": "Nissan",
+  "vencimiento": "Sin Fecha"
+},{
+  "_id": {
+    "$oid": "6421236417eb213413b2864e"
+  },
+  "nombre_Producto": "Miata mx5",
+  "descripcion": "Convertible de dos pasajeros",
+  "precio": "45000",
+  "marca": "Mazda",
+  "vencimiento": "N/A"
+}]
